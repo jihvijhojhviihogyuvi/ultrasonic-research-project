@@ -1,0 +1,13 @@
+START nonlinear_floquet_regularized
+END nonlinear_floquet_regularized primary_screen_rejection K 8.904237764164161e-06 rho None seconds 100.35
+START geometry_matched_7
+END geometry_matched_7 stationary_candidate_not_motion_validated K 2.016139529224642e-05 rho 0.8970891814132387 seconds 2.26
+START geometry_matched_8
+END geometry_matched_8 stationary_candidate_not_motion_validated K 2.0261077713139673e-05 rho 0.8970891814132392 seconds 1.96
+START geometry_matched_9
+END geometry_matched_9 stationary_candidate_not_motion_validated K 2.032409888640261e-05 rho 0.8970891814132361 seconds 1.88
+START gravity_compensated_ib2
+END gravity_compensated_ib2 stationary_screen_rejection K 0.00011520723541692957 rho 0.8970891814132492 seconds 9.49
+START sdp32_slow
+END sdp32_slow stationary_screen_rejection K 3.4348298665194652e-06 rho 0.8970891814132352 seconds 11.99
+EXPERIMENT_GROUP_COMPLETE refinements 6

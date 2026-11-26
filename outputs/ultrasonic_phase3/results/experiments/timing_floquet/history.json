@@ -1,0 +1,116 @@
+[
+  {
+    "stage": "mean",
+    "iteration": 0,
+    "loss": 11.762459076029943,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 10,
+    "loss": 12.170714930858878,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 20,
+    "loss": 7.78248004645979,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 30,
+    "loss": 2.6439895887253293,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 40,
+    "loss": 6.116146544323001,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 50,
+    "loss": 2.0789361693412998,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 60,
+    "loss": 1.7891441612318433,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 70,
+    "loss": 1.917464330594368,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 80,
+    "loss": 0.7710403938431195,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 90,
+    "loss": 0.8503533118331611,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 100,
+    "loss": 1.6152234897468325,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 110,
+    "loss": 0.1216794191658369,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 120,
+    "loss": 0.014891582267728697,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 130,
+    "loss": 0.0803130748111118,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 140,
+    "loss": 0.02608311882645887,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 149,
+    "loss": 0.9553686394390796,
+    "rho": null
+  },
+  {
+    "stage": "timing",
+    "iteration": 0,
+    "loss": 0.01101083101410502,
+    "rho": 0.89708918162168
+  },
+  {
+    "stage": "timing",
+    "iteration": 10,
+    "loss": 0.008075179461657053,
+    "rho": 0.8970891816507911
+  },
+  {
+    "stage": "timing",
+    "iteration": 11,
+    "loss": 0.008033288804871476,
+    "rho": 0.8970891816681001
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "delay_bins": 8,
+    "samples_per_cycle": 64,
+    "duration_s": 1.2000000000000002,
+    "maximum_error_mm": 0.06779803046743291,
+    "maximum_position_difference_from_first_mm": 0.0
+  },
+  {
+    "delay_bins": 16,
+    "samples_per_cycle": 64,
+    "duration_s": 1.2000000000000002,
+    "maximum_error_mm": 0.06779797318104687,
+    "maximum_position_difference_from_first_mm": 3.558593517211486e-06
+  },
+  {
+    "delay_bins": 16,
+    "samples_per_cycle": 128,
+    "duration_s": 1.2000000000000002,
+    "maximum_error_mm": 0.06780007216144461,
+    "maximum_position_difference_from_first_mm": 8.061219799470547e-06
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "stage": "mean",
+    "iteration": 0,
+    "loss": 25.84857625643511,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 10,
+    "loss": 10.065239598867642,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 20,
+    "loss": 8.880410967926377,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 30,
+    "loss": 8.441293844661466,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 40,
+    "loss": 8.201029454245134,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 50,
+    "loss": 8.066767302743738,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 60,
+    "loss": 7.95738034365654,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 70,
+    "loss": 7.8774364341579615,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 79,
+    "loss": 7.821950778122593,
+    "rho": null
+  }
+]

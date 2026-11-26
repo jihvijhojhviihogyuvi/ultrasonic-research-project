@@ -1,0 +1,20 @@
+[
+  {
+    "variant": "half_stencil",
+    "force_change_fraction_of_weight": 0.0006568533348175578,
+    "min_stiffness_relative_change": 4.210219337830168e-05,
+    "linearized_equilibrium_shift_um": 0.049370797613726
+  },
+  {
+    "variant": "96_disk_patches",
+    "force_change_fraction_of_weight": 0.0050201166842814195,
+    "min_stiffness_relative_change": 0.0035066567944219695,
+    "linearized_equilibrium_shift_um": 0.7498285470480385
+  },
+  {
+    "variant": "384_disk_patches",
+    "force_change_fraction_of_weight": 0.006443078412106339,
+    "min_stiffness_relative_change": 0.0043730820193792486,
+    "linearized_equilibrium_shift_um": 0.934375996604736
+  }
+]

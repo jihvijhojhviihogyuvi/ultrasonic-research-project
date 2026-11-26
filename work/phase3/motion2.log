@@ -1,0 +1,5 @@
+VALIDATING compare_2_static
+compare_2_static compute_rate_failure duration 76.0 error 0.09856183162061481
+VALIDATING compare_2_covariance
+compare_2_covariance compute_rate_failure duration 76.0 error 0.09937693696725007
+MOTION_VALIDATIONS_EXECUTED

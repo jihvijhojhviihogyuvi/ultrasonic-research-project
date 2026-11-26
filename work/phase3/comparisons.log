@@ -1,0 +1,37 @@
+START compare_2_ib
+END compare_2_ib stationary_screen_rejection K 0.00011173156820080473 rho 0.8970891814132578 seconds 0.9
+START compare_2_static
+END compare_2_static stationary_candidate_not_motion_validated K 8.409097882677437e-05 rho 0.8970891814132343 seconds 5.68
+START compare_2_multifrequency
+END compare_2_multifrequency stationary_candidate_not_motion_validated K 8.249949420028729e-05 rho 0.8970891815434529 seconds 11.52
+START compare_2_singleton
+END compare_2_singleton stationary_screen_rejection K 0.000135803765027927 rho 2.010187714697051 seconds 9.0
+START compare_2_covariance
+END compare_2_covariance stationary_candidate_not_motion_validated K 7.347518522213914e-05 rho 0.8970891816217462 seconds 10.83
+START compare_2_support
+END compare_2_support stationary_candidate_not_motion_validated K 4.127631423525981e-05 rho 0.8970891814132363 seconds 2.88
+START compare_8_ib
+END compare_8_ib stationary_screen_rejection K 2.1147532595822634e-05 rho 0.8970891814132465 seconds 3.42
+START compare_8_static
+END compare_8_static stationary_candidate_not_motion_validated K 3.577582084671458e-05 rho 0.8970891814132406 seconds 2.76
+START compare_8_multifrequency
+END compare_8_multifrequency stationary_candidate_not_motion_validated K 2.9005765809572438e-05 rho 0.8970891850238348 seconds 20.17
+START compare_8_singleton
+END compare_8_singleton stationary_screen_rejection K 2.1304198336478115e-05 rho 1.2613715787367303 seconds 16.41
+START compare_8_covariance
+END compare_8_covariance stationary_screen_rejection K 3.16172525886797e-05 rho 1.472534569986584 seconds 29.82
+START compare_8_support
+END compare_8_support stationary_screen_rejection K 1.1295732432525616e-05 rho 0.897089181413237 seconds 5.54
+START compare_16_ib
+END compare_16_ib primary_screen_rejection K -3.4033703675222975e-06 rho None seconds 1.04
+START compare_16_static
+END compare_16_static primary_screen_rejection K 1.0104442517658156e-05 rho None seconds 5.02
+START compare_16_multifrequency
+END compare_16_multifrequency stationary_screen_rejection K 1.4560710840056237e-05 rho 0.897089186684587 seconds 67.54
+START compare_16_singleton
+END compare_16_singleton primary_screen_rejection K 3.7254597037306034e-06 rho None seconds 15.2
+START compare_16_covariance
+END compare_16_covariance stationary_candidate_not_motion_validated K 1.7563500899384935e-05 rho 0.8970893109215602 seconds 78.44
+START compare_16_support
+END compare_16_support primary_screen_rejection K 2.112852088754908e-06 rho None seconds 6.33
+EXPERIMENT_GROUP_COMPLETE comparisons 18

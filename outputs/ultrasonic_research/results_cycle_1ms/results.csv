@@ -1,0 +1,2 @@
+architecture,n,requested_particles,tau_ms,converged,stable_local_traps,max_error_mm,min_stiffness_N_m,required_stiffness_N_m,force_rank,force_rank_required,force_singular_ratio,drive_effort,acoustic_power_estimate_W,optimization_s,floquet_radius,ripple_mm,commands_per_cycle,minimum_spacing_mm,independence_status,runtime_s
+covariance,512,8,0.16,True,7,0.0034513319448804206,1.5579228396666503e-05,1.7441030632668644e-05,24,24,0.0979051038432157,256.0,1.492951690156511,10.15920630004257,0.9785141806676307,0.0010825735435563597,4,12.276200888246594,not_tested,17.66841259994544

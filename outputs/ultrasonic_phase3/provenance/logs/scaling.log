@@ -1,0 +1,145 @@
+START scale_N32_M2_static
+END scale_N32_M2_static primary_screen_rejection K 2.4514916684914862e-06 rho None seconds 4.78
+START scale_N32_M2_covariance
+END scale_N32_M2_covariance primary_screen_rejection K 2.0817707387316396e-06 rho None seconds 4.7
+START scale_N32_M4_static
+END scale_N32_M4_static primary_screen_rejection K 5.832210127885697e-07 rho None seconds 1.29
+START scale_N32_M4_covariance
+END scale_N32_M4_covariance primary_screen_rejection K 4.015009763625686e-07 rho None seconds 5.51
+START scale_N32_M8_static
+END scale_N32_M8_static primary_screen_rejection K -9.92981575747001e-07 rho None seconds 1.35
+START scale_N32_M8_covariance
+END scale_N32_M8_covariance primary_screen_rejection K -1.5263478957865868e-07 rho None seconds 8.58
+START scale_N32_M16_static
+END scale_N32_M16_static primary_screen_rejection K -2.1367077193738638e-06 rho None seconds 2.18
+START scale_N32_M16_covariance
+END scale_N32_M16_covariance primary_screen_rejection K -7.720811545118996e-07 rho None seconds 12.05
+START scale_N32_M25_static
+END scale_N32_M25_static primary_screen_rejection K -2.5011417773722505e-06 rho None seconds 2.1
+START scale_N32_M25_covariance
+END scale_N32_M25_covariance primary_screen_rejection K -1.284201996733442e-06 rho None seconds 22.43
+START scale_N32_M32_static
+END scale_N32_M32_static primary_screen_rejection K -4.249061525873888e-06 rho None seconds 2.11
+START scale_N32_M32_covariance
+END scale_N32_M32_covariance primary_screen_rejection K -1.3331971821765347e-06 rho None seconds 26.3
+START scale_N32_M50_static
+END scale_N32_M50_static primary_screen_rejection K -4.061285385525666e-06 rho None seconds 3.18
+START scale_N32_M50_covariance
+END scale_N32_M50_covariance primary_screen_rejection K -4.485760620699729e-06 rho None seconds 38.01
+START scale_N64_M2_static
+END scale_N64_M2_static primary_screen_rejection K 9.607868968745262e-06 rho None seconds 1.49
+START scale_N64_M2_covariance
+END scale_N64_M2_covariance primary_screen_rejection K 7.572343582745942e-06 rho None seconds 5.36
+START scale_N64_M4_static
+END scale_N64_M4_static primary_screen_rejection K 1.1941696463920405e-06 rho None seconds 1.95
+START scale_N64_M4_covariance
+END scale_N64_M4_covariance primary_screen_rejection K 2.602676440381842e-06 rho None seconds 6.72
+START scale_N64_M8_static
+END scale_N64_M8_static primary_screen_rejection K 5.784706023316072e-07 rho None seconds 2.1
+START scale_N64_M8_covariance
+END scale_N64_M8_covariance primary_screen_rejection K 7.079533365372694e-07 rho None seconds 10.05
+START scale_N64_M16_static
+END scale_N64_M16_static primary_screen_rejection K -9.054243749657378e-07 rho None seconds 2.43
+START scale_N64_M16_covariance
+END scale_N64_M16_covariance primary_screen_rejection K -5.6345219456519034e-08 rho None seconds 17.42
+START scale_N64_M25_static
+END scale_N64_M25_static primary_screen_rejection K -2.7901935955937643e-06 rho None seconds 2.24
+START scale_N64_M25_covariance
+END scale_N64_M25_covariance primary_screen_rejection K -7.67351437650411e-07 rho None seconds 19.91
+START scale_N64_M32_static
+END scale_N64_M32_static primary_screen_rejection K -3.7364342674016323e-06 rho None seconds 2.24
+START scale_N64_M32_covariance
+END scale_N64_M32_covariance primary_screen_rejection K -2.3389224208713442e-06 rho None seconds 26.48
+START scale_N64_M50_static
+END scale_N64_M50_static primary_screen_rejection K -2.5363395270713114e-06 rho None seconds 3.08
+START scale_N64_M50_covariance
+END scale_N64_M50_covariance primary_screen_rejection K -2.2481660623749902e-06 rho None seconds 37.11
+START scale_N128_M2_static
+END scale_N128_M2_static stationary_candidate_not_motion_validated K 1.9257103081483455e-05 rho 0.8970891814132378 seconds 1.66
+START scale_N128_M2_covariance
+END scale_N128_M2_covariance stationary_screen_rejection K 1.7071833657974677e-05 rho 0.8970891817706517 seconds 7.46
+START scale_N128_M4_static
+END scale_N128_M4_static primary_screen_rejection K 4.5171341208520966e-07 rho None seconds 1.82
+START scale_N128_M4_covariance
+END scale_N128_M4_covariance primary_screen_rejection K 6.6823255262556794e-06 rho None seconds 7.2
+START scale_N128_M8_static
+END scale_N128_M8_static primary_screen_rejection K 6.178931245119203e-07 rho None seconds 2.07
+START scale_N128_M8_covariance
+END scale_N128_M8_covariance primary_screen_rejection K 1.6989939572885627e-06 rho None seconds 11.18
+START scale_N128_M16_static
+END scale_N128_M16_static primary_screen_rejection K 2.7644347649629997e-07 rho None seconds 1.61
+START scale_N128_M16_covariance
+END scale_N128_M16_covariance primary_screen_rejection K 9.623861234647594e-07 rho None seconds 12.09
+START scale_N128_M25_static
+END scale_N128_M25_static primary_screen_rejection K -9.099954701307716e-07 rho None seconds 1.44
+START scale_N128_M25_covariance
+END scale_N128_M25_covariance primary_screen_rejection K 3.6643459631662906e-08 rho None seconds 15.14
+START scale_N128_M32_static
+END scale_N128_M32_static primary_screen_rejection K -1.5894254021758828e-06 rho None seconds 1.59
+START scale_N128_M32_covariance
+END scale_N128_M32_covariance primary_screen_rejection K -6.465228559483277e-07 rho None seconds 20.28
+START scale_N128_M50_static
+END scale_N128_M50_static primary_screen_rejection K -4.653122633397709e-06 rho None seconds 2.74
+START scale_N128_M50_covariance
+END scale_N128_M50_covariance primary_screen_rejection K -1.262183556073151e-06 rho None seconds 33.32
+START scale_N256_M2_static
+END scale_N256_M2_static stationary_candidate_not_motion_validated K 3.733660070916573e-05 rho 0.8970891814132336 seconds 1.82
+START scale_N256_M2_covariance
+END scale_N256_M2_covariance stationary_candidate_not_motion_validated K 4.253956916430563e-05 rho 0.9623430769657682 seconds 8.55
+START scale_N256_M4_static
+END scale_N256_M4_static stationary_screen_rejection K 1.2868356719955262e-05 rho 0.8970891814132389 seconds 2.07
+START scale_N256_M4_covariance
+END scale_N256_M4_covariance stationary_screen_rejection K 2.6509210251024805e-05 rho 1.891950545258869 seconds 13.44
+START scale_N256_M8_static
+END scale_N256_M8_static primary_screen_rejection K -9.690976912006242e-08 rho None seconds 1.86
+START scale_N256_M8_covariance
+END scale_N256_M8_covariance primary_screen_rejection K 2.5623531248846827e-06 rho None seconds 6.95
+START scale_N256_M16_static
+END scale_N256_M16_static primary_screen_rejection K -1.1524529147686621e-06 rho None seconds 1.51
+START scale_N256_M16_covariance
+END scale_N256_M16_covariance primary_screen_rejection K 2.458419998640254e-06 rho None seconds 15.86
+START scale_N256_M25_static
+END scale_N256_M25_static primary_screen_rejection K -2.3629476279038698e-07 rho None seconds 1.96
+START scale_N256_M25_covariance
+END scale_N256_M25_covariance primary_screen_rejection K 9.426065932207569e-07 rho None seconds 20.48
+START scale_N256_M32_static
+END scale_N256_M32_static primary_screen_rejection K -1.6325196628698916e-06 rho None seconds 3.15
+START scale_N256_M32_covariance
+END scale_N256_M32_covariance primary_screen_rejection K 2.131649057290533e-07 rho None seconds 24.65
+START scale_N256_M50_static
+END scale_N256_M50_static primary_screen_rejection K -1.5713693910037324e-06 rho None seconds 3.14
+START scale_N256_M50_covariance
+END scale_N256_M50_covariance primary_screen_rejection K -5.035417034448812e-07 rho None seconds 35.46
+START scale_N512_M2_static
+END scale_N512_M2_static stationary_candidate_not_motion_validated K 8.409097882677437e-05 rho 0.8970891814132343 seconds 2.1
+START scale_N512_M2_covariance
+END scale_N512_M2_covariance stationary_candidate_not_motion_validated K 5.569919144588132e-05 rho 0.8970891817861598 seconds 9.32
+START scale_N512_M4_static
+END scale_N512_M4_static stationary_candidate_not_motion_validated K 3.729856917563953e-05 rho 0.8970891814132387 seconds 3.53
+START scale_N512_M4_covariance
+END scale_N512_M4_covariance stationary_screen_rejection K 5.022644957016377e-05 rho 3.3966081267232218 seconds 13.33
+START scale_N512_M8_static
+END scale_N512_M8_static stationary_candidate_not_motion_validated K 2.927311717625709e-05 rho 0.8970891814132389 seconds 2.56
+START scale_N512_M8_covariance
+END scale_N512_M8_covariance stationary_screen_rejection K 2.1428006617184697e-05 rho 1.8088776474703792 seconds 37.21
+START scale_N512_M16_static
+END scale_N512_M16_static primary_screen_rejection K 5.874204737340419e-06 rho None seconds 3.35
+START scale_N512_M16_covariance
+END scale_N512_M16_covariance stationary_screen_rejection K 1.164181979588632e-05 rho 0.897089209206629 seconds 68.19
+START scale_N512_M25_static
+END scale_N512_M25_static primary_screen_rejection K -4.2819676801775557e-07 rho None seconds 3.7
+START scale_N512_M25_covariance
+END scale_N512_M25_covariance primary_screen_rejection K 4.601309747410638e-06 rho None seconds 36.66
+START scale_N512_M32_static
+END scale_N512_M32_static primary_screen_rejection K -1.0065254225732273e-06 rho None seconds 4.37
+START scale_N512_M32_covariance
+END scale_N512_M32_covariance primary_screen_rejection K 3.132938877416614e-06 rho None seconds 44.32
+START scale_N512_M50_static
+END scale_N512_M50_static primary_screen_rejection K -2.3395666395296787e-06 rho None seconds 5.61
+START scale_N512_M50_covariance
+END scale_N512_M50_covariance primary_screen_rejection K 1.8485242928842602e-06 rho None seconds 59.9
+START scale_N512_M100_static
+END scale_N512_M100_static primary_screen_rejection K -5.04426590258548e-06 rho None seconds 5.57
+START scale_N512_M100_covariance
+END scale_N512_M100_covariance primary_screen_rejection K -7.076812253445896e-07 rho None seconds 84.73
+EXPERIMENT_GROUP_COMPLETE scaling 72

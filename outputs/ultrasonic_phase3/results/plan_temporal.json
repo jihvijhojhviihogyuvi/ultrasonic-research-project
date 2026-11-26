@@ -1,0 +1,223 @@
+[
+  {
+    "id": "slots_2",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 2,
+    "category": "temporal",
+    "iterations": 150
+  },
+  {
+    "id": "slots_3",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 3,
+    "category": "temporal",
+    "iterations": 150
+  },
+  {
+    "id": "slots_4",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150
+  },
+  {
+    "id": "slots_8",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 8,
+    "category": "temporal",
+    "iterations": 150
+  },
+  {
+    "id": "slots_16",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 16,
+    "category": "temporal",
+    "iterations": 150
+  },
+  {
+    "id": "timing_floquet",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "stage": "timing",
+    "stage_iterations": 12,
+    "order_trials": 8
+  },
+  {
+    "id": "joint_floquet",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "stage": "floquet",
+    "stage_iterations": 12
+  },
+  {
+    "id": "nonlinear_floquet",
+    "architecture": "covariance",
+    "n": 64,
+    "m": 2,
+    "fields": 2,
+    "category": "temporal",
+    "iterations": 100,
+    "nonlinear_iterations": 2,
+    "nonlinear_steps": 16
+  },
+  {
+    "id": "permanent_support",
+    "architecture": "common",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 180,
+    "stage": "timing",
+    "stage_iterations": 6
+  },
+  {
+    "id": "smooth_0.000000",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "config": {
+      "smooth_s": 0.0
+    }
+  },
+  {
+    "id": "smooth_0.000040",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "config": {
+      "smooth_s": 4e-05
+    }
+  },
+  {
+    "id": "smooth_0.000160",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "config": {
+      "smooth_s": 0.00016
+    }
+  },
+  {
+    "id": "cycle_0.0010",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "config": {
+      "cycle_s": 0.001
+    }
+  },
+  {
+    "id": "cycle_0.0025",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "config": {
+      "cycle_s": 0.0025
+    }
+  },
+  {
+    "id": "cycle_0.0100",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "config": {
+      "cycle_s": 0.01
+    }
+  },
+  {
+    "id": "control_jacobian",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "temporal",
+    "iterations": 120,
+    "jacobian_weight": 2.0
+  },
+  {
+    "id": "sdp32",
+    "architecture": "static",
+    "n": 32,
+    "m": 2,
+    "fields": 1,
+    "category": "temporal",
+    "iterations": 80,
+    "sdp": true
+  },
+  {
+    "id": "geometry_7",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "temporal",
+    "iterations": 120,
+    "aperiodic": true,
+    "config": {
+      "seed": 7
+    }
+  },
+  {
+    "id": "geometry_8",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "temporal",
+    "iterations": 120,
+    "aperiodic": true,
+    "config": {
+      "seed": 8
+    }
+  },
+  {
+    "id": "geometry_9",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "temporal",
+    "iterations": 120,
+    "aperiodic": true,
+    "config": {
+      "seed": 9
+    }
+  }
+]

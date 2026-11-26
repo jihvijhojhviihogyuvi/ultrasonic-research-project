@@ -1,0 +1,25 @@
+[
+  {
+    "architecture": "covariance",
+    "n": 512,
+    "requested_particles": 8,
+    "tau_ms": 0.16,
+    "converged": true,
+    "stable_local_traps": 7,
+    "max_error_mm": 0.0034513319448804206,
+    "min_stiffness_N_m": 1.5579228396666503e-05,
+    "required_stiffness_N_m": 1.7441030632668644e-05,
+    "force_rank": 24,
+    "force_rank_required": 24,
+    "force_singular_ratio": 0.0979051038432157,
+    "drive_effort": 256.0,
+    "acoustic_power_estimate_W": 1.492951690156511,
+    "optimization_s": 10.15920630004257,
+    "floquet_radius": 0.9785141806676307,
+    "ripple_mm": 0.0010825735435563597,
+    "commands_per_cycle": 4,
+    "minimum_spacing_mm": 12.276200888246594,
+    "independence_status": "not_tested",
+    "runtime_s": 17.66841259994544
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "power_0.25_static",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "power_density",
+    "iterations": 120,
+    "config": {
+      "power_W": 0.37323792253912774
+    }
+  },
+  {
+    "id": "power_0.25_covariance",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 2,
+    "fields": 4,
+    "category": "power_density",
+    "iterations": 120,
+    "config": {
+      "power_W": 0.37323792253912774
+    }
+  },
+  {
+    "id": "power_0.5_static",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "power_density",
+    "iterations": 120,
+    "config": {
+      "power_W": 0.7464758450782555
+    }
+  },
+  {
+    "id": "power_0.5_covariance",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 2,
+    "fields": 4,
+    "category": "power_density",
+    "iterations": 120,
+    "config": {
+      "power_W": 0.7464758450782555
+    }
+  },
+  {
+    "id": "power_1.0_static",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "power_density",
+    "iterations": 120,
+    "config": {
+      "power_W": 1.492951690156511
+    }
+  },
+  {
+    "id": "power_1.0_covariance",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 2,
+    "fields": 4,
+    "category": "power_density",
+    "iterations": 120,
+    "config": {
+      "power_W": 1.492951690156511
+    }
+  },
+  {
+    "id": "density_0.25_static",
+    "architecture": "static",
+    "n": 128,
+    "m": 8,
+    "fields": 1,
+    "category": "power_density",
+    "iterations": 120,
+    "cloud_scale": 0.25
+  },
+  {
+    "id": "density_0.25_covariance",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 8,
+    "fields": 4,
+    "category": "power_density",
+    "iterations": 120,
+    "cloud_scale": 0.25
+  },
+  {
+    "id": "density_0.5_static",
+    "architecture": "static",
+    "n": 128,
+    "m": 8,
+    "fields": 1,
+    "category": "power_density",
+    "iterations": 120,
+    "cloud_scale": 0.5
+  },
+  {
+    "id": "density_0.5_covariance",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 8,
+    "fields": 4,
+    "category": "power_density",
+    "iterations": 120,
+    "cloud_scale": 0.5
+  },
+  {
+    "id": "density_1.0_static",
+    "architecture": "static",
+    "n": 128,
+    "m": 8,
+    "fields": 1,
+    "category": "power_density",
+    "iterations": 120,
+    "cloud_scale": 1.0
+  },
+  {
+    "id": "density_1.0_covariance",
+    "architecture": "covariance",
+    "n": 128,
+    "m": 8,
+    "fields": 4,
+    "category": "power_density",
+    "iterations": 120,
+    "cloud_scale": 1.0
+  }
+]

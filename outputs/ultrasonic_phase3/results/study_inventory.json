@@ -1,0 +1,15 @@
+{
+  "legacy_reproductions": 13,
+  "independent_recalculations": 28,
+  "new_cases": 128,
+  "motion_records": 12,
+  "strict_runs": 4,
+  "convergence_rows": 20,
+  "coupled_density_diagnostics": 6,
+  "strict_cases": [
+    "compare_2_multifrequency",
+    "compare_2_static",
+    "compare_2_support",
+    "scale_N256_M2_static"
+  ]
+}

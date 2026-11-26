@@ -1,0 +1,164 @@
+[
+  {
+    "id": "compare_2_ib",
+    "architecture": "ib",
+    "n": 512,
+    "m": 2,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_2_static",
+    "architecture": "static",
+    "n": 512,
+    "m": 2,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_2_multifrequency",
+    "architecture": "multifrequency",
+    "n": 512,
+    "m": 2,
+    "fields": 2,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_2_singleton",
+    "architecture": "singleton",
+    "n": 512,
+    "m": 2,
+    "fields": 2,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_2_covariance",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_2_support",
+    "architecture": "support",
+    "n": 512,
+    "m": 2,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_8_ib",
+    "architecture": "ib",
+    "n": 512,
+    "m": 8,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_8_static",
+    "architecture": "static",
+    "n": 512,
+    "m": 8,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_8_multifrequency",
+    "architecture": "multifrequency",
+    "n": 512,
+    "m": 8,
+    "fields": 2,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_8_singleton",
+    "architecture": "singleton",
+    "n": 512,
+    "m": 8,
+    "fields": 8,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_8_covariance",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 8,
+    "fields": 4,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_8_support",
+    "architecture": "support",
+    "n": 512,
+    "m": 8,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_16_ib",
+    "architecture": "ib",
+    "n": 512,
+    "m": 16,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_16_static",
+    "architecture": "static",
+    "n": 512,
+    "m": 16,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_16_multifrequency",
+    "architecture": "multifrequency",
+    "n": 512,
+    "m": 16,
+    "fields": 2,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_16_singleton",
+    "architecture": "singleton",
+    "n": 512,
+    "m": 16,
+    "fields": 16,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_16_covariance",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 16,
+    "fields": 4,
+    "category": "comparisons",
+    "iterations": 180
+  },
+  {
+    "id": "compare_16_support",
+    "architecture": "support",
+    "n": 512,
+    "m": 16,
+    "fields": 1,
+    "category": "comparisons",
+    "iterations": 180
+  }
+]

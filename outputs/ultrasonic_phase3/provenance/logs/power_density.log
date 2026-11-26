@@ -1,0 +1,25 @@
+START power_0.25_static
+END power_0.25_static primary_screen_rejection K 5.255878669510705e-06 rho None seconds 4.74
+START power_0.25_covariance
+END power_0.25_covariance primary_screen_rejection K 4.23652675650999e-06 rho None seconds 6.01
+START power_0.5_static
+END power_0.5_static stationary_screen_rejection K 1.1717254752469997e-05 rho 0.8970891814132343 seconds 1.99
+START power_0.5_covariance
+END power_0.5_covariance primary_screen_rejection K 1.0577431645221359e-05 rho None seconds 4.52
+START power_1.0_static
+END power_1.0_static stationary_candidate_not_motion_validated K 2.0205843363221985e-05 rho 0.8970891814132389 seconds 1.53
+START power_1.0_covariance
+END power_1.0_covariance stationary_candidate_not_motion_validated K 1.7793540151850508e-05 rho 0.8970891831958593 seconds 9.7
+START density_0.25_static
+END density_0.25_static primary_screen_rejection K 1.6723905808417287e-07 rho None seconds 2.04
+START density_0.25_covariance
+END density_0.25_covariance primary_screen_rejection K 1.0674074614643674e-06 rho None seconds 9.13
+START density_0.5_static
+END density_0.5_static primary_screen_rejection K 5.789055120053364e-07 rho None seconds 1.65
+START density_0.5_covariance
+END density_0.5_covariance primary_screen_rejection K 7.498403533090286e-07 rho None seconds 8.4
+START density_1.0_static
+END density_1.0_static primary_screen_rejection K 9.230467078127323e-07 rho None seconds 3.13
+START density_1.0_covariance
+END density_1.0_covariance primary_screen_rejection K 2.0555800931789247e-06 rho None seconds 9.56
+EXPERIMENT_GROUP_COMPLETE power_density 12

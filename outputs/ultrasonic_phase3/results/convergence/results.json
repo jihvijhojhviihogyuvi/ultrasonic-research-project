@@ -1,0 +1,125 @@
+[
+  {
+    "test": "spectral_time",
+    "harmonics": 8,
+    "time_samples": 64,
+    "weakest_stiffness_N_m": 7.347321721808155e-05,
+    "floquet_radius": 0.89708918162168,
+    "gravity_residual_fraction": 0.027454904048196165,
+    "acoustic_power_W": 0.8628094470141267,
+    "runtime_s": 0.1788912999909371
+  },
+  {
+    "test": "spectral_time",
+    "harmonics": 8,
+    "time_samples": 128,
+    "weakest_stiffness_N_m": 7.347321721808151e-05,
+    "floquet_radius": 0.8970891816219719,
+    "gravity_residual_fraction": 0.02745490404819581,
+    "acoustic_power_W": 0.8628094470141267,
+    "runtime_s": 0.16669520002324134
+  },
+  {
+    "test": "spectral_time",
+    "harmonics": 8,
+    "time_samples": 256,
+    "weakest_stiffness_N_m": 7.347321721808158e-05,
+    "floquet_radius": 0.8970891816220609,
+    "gravity_residual_fraction": 0.027454904048195852,
+    "acoustic_power_W": 0.8628094470141267,
+    "runtime_s": 0.23556529998313636
+  },
+  {
+    "test": "spectral_time",
+    "harmonics": 16,
+    "time_samples": 64,
+    "weakest_stiffness_N_m": 7.355374710815928e-05,
+    "floquet_radius": 0.8970891816183657,
+    "gravity_residual_fraction": 0.02811841430996818,
+    "acoustic_power_W": 0.8643817046156588,
+    "runtime_s": 0.2586230000015348
+  },
+  {
+    "test": "spectral_time",
+    "harmonics": 16,
+    "time_samples": 128,
+    "weakest_stiffness_N_m": 7.35537471081592e-05,
+    "floquet_radius": 0.8970891816186503,
+    "gravity_residual_fraction": 0.028118414309967598,
+    "acoustic_power_W": 0.8643817046156588,
+    "runtime_s": 0.28374309989158064
+  },
+  {
+    "test": "spectral_time",
+    "harmonics": 16,
+    "time_samples": 256,
+    "weakest_stiffness_N_m": 7.355374710815928e-05,
+    "floquet_radius": 0.8970891816187376,
+    "gravity_residual_fraction": 0.028118414309967622,
+    "acoustic_power_W": 0.8643817046156588,
+    "runtime_s": 0.26165550004225224
+  },
+  {
+    "test": "disk_quadrature",
+    "refinement": 1,
+    "patches_per_disk": 24,
+    "weakest_stiffness_N_m": 7.347321721808155e-05,
+    "floquet_radius": 0.89708918162168,
+    "runtime_s": 8.988604999962263
+  },
+  {
+    "test": "disk_quadrature",
+    "refinement": 2,
+    "patches_per_disk": 96,
+    "weakest_stiffness_N_m": 7.391339831246056e-05,
+    "floquet_radius": 0.8970891816259622,
+    "runtime_s": 16.407192899961956
+  },
+  {
+    "test": "disk_quadrature",
+    "refinement": 3,
+    "patches_per_disk": 216,
+    "weakest_stiffness_N_m": 7.39951272026664e-05,
+    "floquet_radius": 0.8970891816267587,
+    "runtime_s": 30.199670300004072
+  },
+  {
+    "test": "scattering",
+    "method": "none",
+    "weakest_stiffness_N_m": 7.347158532701097e-05,
+    "floquet_radius": 0.8970891816238911,
+    "gravity_residual_fraction": 0.02790224617397519
+  },
+  {
+    "test": "scattering",
+    "method": "born",
+    "weakest_stiffness_N_m": 7.347321721808155e-05,
+    "floquet_radius": 0.89708918162168,
+    "gravity_residual_fraction": 0.027454904048196165
+  },
+  {
+    "test": "scattering",
+    "method": "foldy",
+    "weakest_stiffness_N_m": 7.347321811817999e-05,
+    "floquet_radius": 0.8970891816217338,
+    "gravity_residual_fraction": 0.027455476780229728
+  },
+  {
+    "test": "spatial_derivative",
+    "step_m": 5e-05,
+    "weakest_stiffness_N_m": 7.346775169613967e-05,
+    "floquet_radius": 0.8970891822536687
+  },
+  {
+    "test": "spatial_derivative",
+    "step_m": 2.5e-05,
+    "weakest_stiffness_N_m": 7.347321721808155e-05,
+    "floquet_radius": 0.89708918162168
+  },
+  {
+    "test": "spatial_derivative",
+    "step_m": 1.25e-05,
+    "weakest_stiffness_N_m": 7.347458359813687e-05,
+    "floquet_radius": 0.8970891814886334
+  }
+]

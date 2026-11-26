@@ -1,0 +1,7 @@
+{
+  "case": "compare_2_ib",
+  "status": "initial_position_precheck_failure",
+  "independent_particles": 0,
+  "equilibrium_error_mm": 0.30169756922179974,
+  "motion_contract_pass": false
+}

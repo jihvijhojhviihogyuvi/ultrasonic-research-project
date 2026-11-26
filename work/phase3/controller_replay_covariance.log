@@ -1,0 +1,14 @@
+{
+  "case": "compare_2_covariance",
+  "source_motion_run": "compare_2_covariance_slow_ramp",
+  "frames_replayed": 1520,
+  "same_control_trajectory": true,
+  "maximum_control_coordinate_difference": 8.881784197001252e-16,
+  "controller_mean_s": 0.011709029473116205,
+  "controller_max_s": 0.057738699950277805,
+  "controller_p99_s": 0.0369802439212799,
+  "compute_deadline_pass": false,
+  "update_hz": 20,
+  "scope": "camera processing, correction and spectral packet; offline simulation/verification oracles excluded"
+}
+CONTROLLER_REPLAY_EXECUTED

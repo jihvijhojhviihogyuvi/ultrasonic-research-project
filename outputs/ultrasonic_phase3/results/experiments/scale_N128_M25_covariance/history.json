@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "mean",
+    "iteration": 0,
+    "loss": 16.980545556179784,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 10,
+    "loss": 9.449887357648711,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 20,
+    "loss": 8.72398796818303,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 30,
+    "loss": 8.444661900909034,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 40,
+    "loss": 8.319527319063408,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 49,
+    "loss": 8.20944768315583,
+    "rho": null
+  }
+]

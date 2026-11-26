@@ -1,0 +1,7 @@
+{
+  "case": "compare_2_singleton",
+  "status": "periodic_instability_precheck_failure",
+  "independent_particles": 0,
+  "floquet_radius": 2.010187714697051,
+  "motion_contract_pass": false
+}

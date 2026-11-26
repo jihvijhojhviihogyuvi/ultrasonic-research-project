@@ -1,0 +1,116 @@
+[
+  {
+    "stage": "mean",
+    "iteration": 0,
+    "loss": 11.811658561990152,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 10,
+    "loss": 4.5345998324049726,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 20,
+    "loss": 3.759342467940253,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 30,
+    "loss": 3.18056219839133,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 40,
+    "loss": 2.929494750610327,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 50,
+    "loss": 2.7472768428133367,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 60,
+    "loss": 2.6056402541553796,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 70,
+    "loss": 2.4896652849018457,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 80,
+    "loss": 2.397102382609289,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 90,
+    "loss": 2.325915681392774,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 100,
+    "loss": 2.2611080154233028,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 110,
+    "loss": 2.209008167951909,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 120,
+    "loss": 2.169095011674228,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 130,
+    "loss": 2.1251246688142555,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 140,
+    "loss": 2.0981859608786477,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 149,
+    "loss": 2.0735435048247637,
+    "rho": null
+  },
+  {
+    "stage": "floquet",
+    "iteration": 0,
+    "loss": 2.0755799745431722,
+    "rho": 0.8970891817586539
+  },
+  {
+    "stage": "floquet",
+    "iteration": 10,
+    "loss": 2.1865141699485022,
+    "rho": 0.8970891815902929
+  },
+  {
+    "stage": "floquet",
+    "iteration": 11,
+    "loss": 2.217250763199238,
+    "rho": 0.8970891815967468
+  }
+]

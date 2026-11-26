@@ -1,0 +1,14 @@
+{
+  "case": "compare_2_multifrequency",
+  "source_motion_run": "compare_2_multifrequency_active_tones",
+  "frames_replayed": 1520,
+  "same_control_trajectory": true,
+  "maximum_control_coordinate_difference": 0.0,
+  "controller_mean_s": 0.0061272736844043005,
+  "controller_max_s": 0.023198000038973987,
+  "controller_p99_s": 0.017777548028388945,
+  "compute_deadline_pass": true,
+  "update_hz": 20,
+  "scope": "camera processing, correction and spectral packet; offline simulation/verification oracles excluded"
+}
+CONTROLLER_REPLAY_EXECUTED

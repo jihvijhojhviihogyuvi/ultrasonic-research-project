@@ -1,0 +1,23 @@
+{
+  "degree": 8,
+  "steps_per_cycle": 128,
+  "shooting_converged": true,
+  "closure_scaled_norm": 4.905797779632585e-13,
+  "floquet_radius_nonlinear": 0.8934629679115237,
+  "maximum_position_error_mm": 0.007080973971210799,
+  "surrogate": {
+    "force_error_fractions_of_weight": [
+      0.0004662029762946042,
+      0.00022312254956809096,
+      0.00016501501493153603,
+      0.0002448783828925119,
+      0.00023251722757930185,
+      0.0005154498535834107
+    ],
+    "maximum_force_error_fraction": 0.0005154498535834107,
+    "degree": 8,
+    "scale_m": 0.0015
+  },
+  "runtime_s": 101.73908840003423,
+  "valid_domain": true
+}

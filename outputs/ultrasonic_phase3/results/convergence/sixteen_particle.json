@@ -1,0 +1,57 @@
+[
+  {
+    "harmonics": 8,
+    "time_samples": 64,
+    "disk_refinement": 1,
+    "fd_step_m": 2.5e-05,
+    "weakest_stiffness_N_m": 1.7563500899384935e-05,
+    "floquet_radius": 0.8970893109215602,
+    "gravity_residual_fraction": 4.061224076707442e-08,
+    "power_W": 1.492951690156511,
+    "runtime_s": 17.1169346999377
+  },
+  {
+    "harmonics": 8,
+    "time_samples": 128,
+    "disk_refinement": 1,
+    "fd_step_m": 2.5e-05,
+    "weakest_stiffness_N_m": 1.756350089938494e-05,
+    "floquet_radius": 0.8970893109030319,
+    "gravity_residual_fraction": 4.0612240551395516e-08,
+    "power_W": 1.492951690156511,
+    "runtime_s": 17.56725780002307
+  },
+  {
+    "harmonics": 16,
+    "time_samples": 128,
+    "disk_refinement": 1,
+    "fd_step_m": 2.5e-05,
+    "weakest_stiffness_N_m": 1.7573208193464685e-05,
+    "floquet_radius": 0.8970894149517393,
+    "gravity_residual_fraction": 0.0018650923890111372,
+    "power_W": 1.4945903761840864,
+    "runtime_s": 34.42299200000707
+  },
+  {
+    "harmonics": 8,
+    "time_samples": 128,
+    "disk_refinement": 2,
+    "fd_step_m": 2.5e-05,
+    "weakest_stiffness_N_m": 1.7684055367591146e-05,
+    "floquet_radius": 0.89708925123439,
+    "gravity_residual_fraction": 0.011625096229930736,
+    "power_W": 1.492951690156511,
+    "runtime_s": 79.94032380008139
+  },
+  {
+    "harmonics": 8,
+    "time_samples": 128,
+    "disk_refinement": 1,
+    "fd_step_m": 1.25e-05,
+    "weakest_stiffness_N_m": 1.7563923434451163e-05,
+    "floquet_radius": 0.8970893258010382,
+    "gravity_residual_fraction": 4.0612240551395516e-08,
+    "power_W": 1.492951690156511,
+    "runtime_s": 20.729478199966252
+  }
+]

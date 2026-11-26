@@ -1,0 +1,5 @@
+VALIDATING compare_2_support
+compare_2_support strict_pass duration 76.0 error 0.0945048209046782
+VALIDATING compare_2_ib
+VALIDATING compare_2_singleton
+MOTION_VALIDATIONS_EXECUTED

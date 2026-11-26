@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "checks": [
+    "every delivered Python file parses",
+    "13 independent fresh executions match archived numerical values",
+    "separate NumPy/SciPy refinement exposes unconverged legacy quadrature",
+    "every attempted design retains matched geometry/power/peak resources and raw fields",
+    "all 72 scaling attempts keep area/aperture/volume/power/material fixed",
+    "static/covariance supplemental tests match realized acoustic power exactly",
+    "spectral/time/disk/spatial/scattering/delay and nonlinear-periodic checks retain raw outcomes",
+    "strict labels satisfy signed/simultaneous motion, resource, retention and actual controller timing evidence",
+    "nine-part report includes every executed case and plotted numerical evidence"
+  ],
+  "source_hashes": {
+    "audit_package.py": "2d23a56ec3ce1a88b5ba96c16cb669a6f7a819d0763ea1dc103392563f2ee985",
+    "benchmark_controller.py": "8136b85471f8aed33fa182a2d40ed80e0d3c643e432fd94441b811f69c07e32c",
+    "build_report.py": "16bfd43c017b2ce303b868eae3794d1c4746278006ae5bff7d01726db6feab41",
+    "convergence.py": "b99e999c038bb6c7903d996332f4f39fe29bc26b03b2fbf1331682f1b8598f1b",
+    "convergence_high.py": "dc03afebe0ddc1cb67759f48ba6b86a7736c0bc2ec32c398bd1d238d80c528aa",
+    "dynamics.py": "a82da1280628678b435d74279fe84167d2d20cdc10e8a786ba4f863cf38f398f",
+    "experiments.py": "2b9270516e106e199932e617354cdf6d172bfe42d729dfc8b90867f4188d8738",
+    "independent_legacy.py": "d6a4a7d9730db0a42633310facb053bb91509876e1e454c1b4f1af2530f89296",
+    "install_task_dependencies.py": "5af760b88b425acee86fb9510bc85db2ad4e6397a01579d07c18778186a6feea",
+    "optimization.py": "038e8b4a1cbbd54316f82452308841ed10ef99845e27154c65e82e10c6cc5fd4",
+    "physics.py": "fd0cb2fd9008f40c812092e6c89962d7cac154cc59e9ed3eb828456d40ee7b41",
+    "power_match.py": "7f5ae4016cc0afa5df8ad1368a1861ab7bb70f68e64b611cf7e0c380fb219290",
+    "reproduce.py": "ffeb55db544cf2ac376d6af591d56e9fe7e064c5e829f63a04c94339bc91fe66",
+    "run_all.py": "c55941b862014efae2e1d26b9711b57d53991a06c671ea10431e2d9af93ba123",
+    "sdp_recovery.py": "05eb26e59646aacff7d1bd781df45b26dcd8a353dd5c5e1ba48cc207cc920153",
+    "tests.py": "9eb407eacaa9b468952a7374a25212eff55d02a0821c75a10ac2ae6c867473fc",
+    "tests_dynamics.py": "5cbadc818b9d3a1c38df226c4b7c7178a6d1c3c9bbf370c6cd71f1b39f34ba5e",
+    "transition_convergence.py": "d7d04779614c45690d84dbafcd268f24b6ccb0d7bdc0b70313de4b49135503ae",
+    "validate_cases.py": "a85467990431cb3f55ab6c19e62f4fe324c2aea0310ebac1038892af3af9f3ea",
+    "validation.py": "06c3acef003f2eb90ec59829d9257776a4648765cf2383ad68402331ff18818d"
+  },
+  "new_cases": 128,
+  "strict_records": 4
+}

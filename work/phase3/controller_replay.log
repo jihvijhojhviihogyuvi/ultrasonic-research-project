@@ -1,0 +1,14 @@
+{
+  "case": "compare_2_static",
+  "source_motion_run": "compare_2_static_cached64",
+  "frames_replayed": 1520,
+  "same_control_trajectory": true,
+  "maximum_control_coordinate_difference": 0.0,
+  "controller_mean_s": 0.014014887236714313,
+  "controller_max_s": 0.037076600012369454,
+  "controller_p99_s": 0.02448477305239066,
+  "compute_deadline_pass": true,
+  "update_hz": 20,
+  "scope": "camera processing, correction and spectral packet; offline simulation/verification oracles excluded"
+}
+CONTROLLER_REPLAY_EXECUTED

@@ -1,0 +1,52 @@
+START slots_2
+END slots_2 stationary_screen_rejection K 4.3315763791081354e-05 rho 1.8454834189740765 seconds 17.4
+START slots_3
+END slots_3 stationary_screen_rejection K 7.879490459843089e-05 rho 3.0196072545587906 seconds 14.98
+START slots_4
+END slots_4 stationary_candidate_not_motion_validated K 7.347518522213914e-05 rho 0.8970891816217462 seconds 14.07
+START slots_8
+END slots_8 stationary_candidate_not_motion_validated K 7.075254014986155e-05 rho 0.9045593184464212 seconds 15.82
+START slots_16
+END slots_16 stationary_candidate_not_motion_validated K 5.6164546315195955e-05 rho 0.8970891956858935 seconds 17.67
+START timing_floquet
+END timing_floquet stationary_candidate_not_motion_validated K 7.249165851993436e-05 rho 0.8970891816684076 seconds 18.4
+START joint_floquet
+END joint_floquet stationary_candidate_not_motion_validated K 1.828216411273879e-05 rho 0.8970891817575506 seconds 14.13
+START nonlinear_floquet
+Traceback (most recent call last):
+  File "C:\Users\Charlie\Documents\Codex\2026-11-24\files-pasted-by-the-user-research\outputs\ultrasonic_phase3\experiments.py", line 68, in run_case
+    optimization_s+=optimize_nonlinear_floquet(d,spec['nonlinear_iterations'],spec.get('nonlinear_steps',16))
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Charlie\Documents\Codex\2026-11-24\files-pasted-by-the-user-research\outputs\ultrasonic_phase3\optimization.py", line 177, in optimize_nonlinear_floquet
+    rho=torch.linalg.eigvals(phi).abs().max()
+        ~~~~~~~~~~~~~~~~~~~~^^^^^
+RuntimeError: torch.linalg.eig: input tensor should not contain infs or NaNs.
+
+END nonlinear_floquet execution_error K None rho None seconds 74.44
+START permanent_support
+END permanent_support stationary_screen_rejection K 5.1216732234186654e-05 rho 1.0066658518265943 seconds 18.52
+START smooth_0.000000
+END smooth_0.000000 stationary_candidate_not_motion_validated K 5.241543118118552e-05 rho 0.8970891819963037 seconds 19.14
+START smooth_0.000040
+END smooth_0.000040 stationary_candidate_not_motion_validated K 7.000043307805953e-05 rho 0.8970891817216552 seconds 17.81
+START smooth_0.000160
+END smooth_0.000160 stationary_candidate_not_motion_validated K 7.066446971100054e-05 rho 0.8970891815411441 seconds 18.54
+START cycle_0.0010
+END cycle_0.0010 stationary_candidate_not_motion_validated K 6.11923528106465e-05 rho 0.9785141807017804 seconds 15.95
+START cycle_0.0025
+END cycle_0.0025 stationary_candidate_not_motion_validated K 6.847648178011122e-05 rho 0.9471479204269265 seconds 14.0
+START cycle_0.0100
+END cycle_0.0100 stationary_screen_rejection K 8.304499591379434e-05 rho 7.507133707972321 seconds 17.79
+START control_jacobian
+END control_jacobian stationary_candidate_not_motion_validated K 2.0200775777832097e-05 rho 0.8970891814132375 seconds 6.27
+START sdp32
+C:\Users\Charlie\Documents\Codex\2026-11-24\files-pasted-by-the-user-research\outputs\ultrasonic_phase3\optimization.py:265: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  start=time.perf_counter();problem.solve(solver="CLARABEL",max_iter=200)
+END sdp32 primary_screen_rejection K 2.4514916684914862e-06 rho None seconds 8.81
+START geometry_7
+END geometry_7 stationary_candidate_not_motion_validated K 2.016139529224642e-05 rho 0.8970891814132387 seconds 2.36
+START geometry_8
+END geometry_8 stationary_candidate_not_motion_validated K 2.163862387518213e-05 rho 0.8970891814132359 seconds 2.28
+START geometry_9
+END geometry_9 stationary_candidate_not_motion_validated K 1.9188140140594587e-05 rho 0.8970891814132367 seconds 2.17
+EXPERIMENT_GROUP_COMPLETE temporal 20

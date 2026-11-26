@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "static_force",
+    "particles": 8,
+    "converged": true,
+    "max_scattering_equilibrium_shift_um": 1.1021340256662364,
+    "relative_off_diagonal_stiffness_norm": 0.0002163271990417542,
+    "symmetric_stiffness_min_N_m": 3.089856891648285e-05,
+    "mean_field_dynamic_max_real_eigenvalue_s_inv": -21.719999999999935,
+    "warning": "mean-field sensitivity only; temporal Floquet coupling and finite-size corrections remain"
+  },
+  {
+    "architecture": "covariance",
+    "particles": 8,
+    "converged": true,
+    "max_scattering_equilibrium_shift_um": 0.5907862719569329,
+    "relative_off_diagonal_stiffness_norm": 0.0001234232587239983,
+    "symmetric_stiffness_min_N_m": 2.8871330938993574e-05,
+    "mean_field_dynamic_max_real_eigenvalue_s_inv": -21.719999999999867,
+    "warning": "mean-field sensitivity only; temporal Floquet coupling and finite-size corrections remain"
+  },
+  {
+    "architecture": "static_force",
+    "particles": 16,
+    "converged": true,
+    "max_scattering_equilibrium_shift_um": 2.1245384257528253,
+    "relative_off_diagonal_stiffness_norm": 0.00033830167630314077,
+    "symmetric_stiffness_min_N_m": 8.310609370140106e-06,
+    "mean_field_dynamic_max_real_eigenvalue_s_inv": -21.719999999999924,
+    "warning": "mean-field sensitivity only; temporal Floquet coupling and finite-size corrections remain"
+  },
+  {
+    "architecture": "covariance",
+    "particles": 16,
+    "converged": true,
+    "max_scattering_equilibrium_shift_um": 1.3266068303214698,
+    "relative_off_diagonal_stiffness_norm": 0.00023913054908874688,
+    "symmetric_stiffness_min_N_m": 1.5527844528136787e-05,
+    "mean_field_dynamic_max_real_eigenvalue_s_inv": -21.71999999999992,
+    "warning": "mean-field sensitivity only; temporal Floquet coupling and finite-size corrections remain"
+  }
+]

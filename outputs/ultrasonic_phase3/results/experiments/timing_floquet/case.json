@@ -1,0 +1,166 @@
+{
+  "id": "timing_floquet",
+  "category": "temporal",
+  "architecture": "covariance",
+  "field_count": 4,
+  "particles": 2,
+  "transducers": 512,
+  "config": {
+    "n": 512,
+    "volume_side": 0.06,
+    "aperture": 0.16,
+    "gap": 0.16,
+    "total_emitting_area": 0.03257203263241897,
+    "frequency": 40000.0,
+    "rho": 1.2,
+    "sound_speed": 343.0,
+    "viscosity": 1.81e-05,
+    "particle_radius": 0.00025,
+    "particle_density": 30.0,
+    "compressibility_ratio": 0.01,
+    "power_W": 1.492951690156511,
+    "source_gain_reference": 2.0,
+    "settling_s": 0.00016,
+    "cycle_s": 0.005,
+    "harmonics": 8,
+    "time_samples": 64,
+    "smooth_s": 8e-05,
+    "stiffness_required": 1.7441030632668644e-05,
+    "accuracy": 0.0001,
+    "seed": 7,
+    "device": "auto",
+    "memory_mb": 1024,
+    "scattering": "born",
+    "fd_step": 2.5e-05
+  },
+  "specification": {
+    "id": "timing_floquet",
+    "architecture": "covariance",
+    "n": 512,
+    "m": 2,
+    "fields": 4,
+    "category": "temporal",
+    "iterations": 150,
+    "stage": "timing",
+    "stage_iterations": 12,
+    "order_trials": 8
+  },
+  "independent_particles": null,
+  "status": "stationary_candidate_not_motion_validated",
+  "seed": 7,
+  "equilibrium_error_mm": 0.0015279767659638994,
+  "weakest_coupled_stiffness_N_m": 7.249165851993436e-05,
+  "floquet_radius": 0.8970891816684076,
+  "acoustic_power_W": 0.8630096045074586,
+  "setup_s": 3.177537400042638,
+  "order_trials": [
+    {
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rho": 0.8970891816681001,
+      "score": 0.006082761884241295
+    },
+    {
+      "order": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "rho": 2.550984577948591,
+      "score": 258.3214723888546
+    },
+    {
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "rho": 2.573389400948712,
+      "score": 269.91974644723797
+    },
+    {
+      "order": [
+        0,
+        3,
+        1,
+        2
+      ],
+      "rho": 2.5733894009487237,
+      "score": 269.9197464472417
+    },
+    {
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "rho": 0.8970891816680989,
+      "score": 0.006082761884241324
+    },
+    {
+      "order": [
+        0,
+        3,
+        2,
+        1
+      ],
+      "rho": 0.8970891818150507,
+      "score": 0.04187685408458824
+    },
+    {
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "rho": 2.580078234378437,
+      "score": 267.9109030033743
+    },
+    {
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "rho": 2.5509845779485985,
+      "score": 258.321472388857
+    }
+  ],
+  "optimization_s": 8.707398899947293,
+  "weakest_primary_stiffness_N_m": 7.249110768604092e-05,
+  "primary_gravity_residual_fraction": 0.006685129609695699,
+  "maximum_command_envelope": 0.7866207591955012,
+  "minimum_separation_mm": 30.713789264863006,
+  "particle_density_per_cm3": 0.009259259259259259,
+  "cloud_density_per_cm3": 0.009259259259259259,
+  "equilibrium_converged": true,
+  "coupled_gravity_residual_fraction": 7.814841699678859e-07,
+  "affine_micromotion_mm": 0.006515487421917173,
+  "duties": [
+    0.24638409603404263,
+    0.2555760689733959,
+    0.23918612157253868,
+    0.2588537134200229
+  ],
+  "runtime_s": 18.40190799999982,
+  "source_hashes": {
+    "convergence.py": "b99e999c038bb6c7903d996332f4f39fe29bc26b03b2fbf1331682f1b8598f1b",
+    "dynamics.py": "aa95a30ff4293a596ea78b204374b9e9b6c2d38d77f099127c836295441851a7",
+    "experiments.py": "ddb70ff48a3521c7478de65163cc053883484e595cfa69f9cada95bf71611614",
+    "independent_legacy.py": "d6a4a7d9730db0a42633310facb053bb91509876e1e454c1b4f1af2530f89296",
+    "optimization.py": "872b178b0de493e592e2155758fea668dc08551030f51ae7e5afdcb91a644c9a",
+    "physics.py": "92a0e956e4bff2931aa34265435e683b5abf64d761a97c352ab85102cf868785",
+    "reproduce.py": "4ccb15b601597acf3b5ecf12701e2abdb677f673ea7fa87a1958144d78910f70",
+    "tests.py": "9eb407eacaa9b468952a7374a25212eff55d02a0821c75a10ac2ae6c867473fc",
+    "validation.py": "a9b5541c575a392ca35f0038536fd267d11dea14a9de802434925dd45894d4e1"
+  }
+}

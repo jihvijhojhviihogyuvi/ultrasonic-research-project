@@ -1,0 +1,50 @@
+VALIDATING DEGREE 8
+{
+  "status": "transient_power_bound_failure",
+  "independent_particles": 0,
+  "motion_contract_pass": false,
+  "real_time_compute_feasible": false,
+  "duration_s": 0.05,
+  "required_protocol_duration_s": 60.0,
+  "frames_completed": 1,
+  "frames_required": 1200,
+  "update_hz": 20,
+  "maximum_position_error_mm": 0.019916868655740102,
+  "maximum_held_displacement_mm": 0.03024488882856988,
+  "minimum_moving_stiffness_N_m": 8.410976508268078e-05,
+  "maximum_source_peak": 0.7544417257866901,
+  "maximum_steady_acoustic_power_W": 1.1856626142447628,
+  "maximum_transient_power_bound_W": 1.6995234061601239,
+  "integrated_normalized_source_energy_s": 10.165420550637725,
+  "controller_mean_s": 2.5238238000310957,
+  "controller_max_s": 2.5238238000310957,
+  "control_rank": 6,
+  "control_singular_ratio": 0.1791579913010868,
+  "surrogate": {
+    "force_error_fractions_of_weight": [
+      0.0002664017370688737,
+      0.0004847958484123309,
+      0.00030391603150553976,
+      0.0003334887180954356,
+      0.00044945335037702177,
+      0.000311412599401003
+    ],
+    "maximum_force_error_fraction": 0.0004847958484123309,
+    "degree": 8,
+    "scale_m": 0.0015
+  },
+  "validation_runtime_s": 47.96903299994301,
+  "noise_m": 1e-05,
+  "camera_delay_s": 0.02,
+  "wind_m_s": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "time_step_s": 0.00015625,
+  "delay_bins": 8,
+  "tests_completed_labels": [
+    "0.25mm_p0_a0_-1"
+  ],
+  "model_note": "validated pressure polynomial; Born scattering; retarded source-center envelope bins; narrowband feedback transients"
+}

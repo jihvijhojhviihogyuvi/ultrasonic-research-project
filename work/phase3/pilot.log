@@ -1,0 +1,20 @@
+OPTIMIZING
+EQUILIBRIUM True error_mm 0.017515373174154244 stiffness_uN_m 84.09097882677437
+VALIDATING
+{
+  "status": "surrogate_convergence_failure",
+  "independent_particles": null,
+  "surrogate": {
+    "force_error_fractions_of_weight": [
+      0.018844158514914052,
+      0.014787165380361124,
+      0.021236435214125833,
+      0.027789301021892806,
+      0.029669522008361697,
+      0.02432585398453276
+    ],
+    "maximum_force_error_fraction": 0.029669522008361697,
+    "degree": 6,
+    "scale_m": 0.0015
+  }
+}

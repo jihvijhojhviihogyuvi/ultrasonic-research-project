@@ -1,0 +1,10 @@
+C:\Users\Charlie\Documents\Codex\2026-11-24\files-pasted-by-the-user-research\outputs\ultrasonic_phase3\optimization.py:245: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  start=time.perf_counter();problem.solve(solver="CLARABEL",max_iter=200)
+optimization_s 0.7282853999640793
+force_ratio [[ 0.01594208 -0.13067244  0.00352444]
+ [ 0.04956838  0.13170681 -0.01061283]] stiffness [[2.45149167e-06 2.45467058e-06 7.59467978e-05]
+ [4.40427221e-06 4.42449019e-06 1.16190958e-04]]
+equilibrium True [[ 0.02123083 -0.01315896  0.00589789]
+ [ 0.0160504   0.01291633  0.02369468]] [2.41567025e-06 2.44439700e-06 3.89205590e-06 4.31077225e-06
+ 7.91755517e-05 1.19191548e-04]
+sdp infeasible_inaccurate

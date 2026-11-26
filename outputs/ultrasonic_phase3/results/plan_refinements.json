@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nonlinear_floquet_regularized",
+    "architecture": "covariance",
+    "n": 64,
+    "m": 2,
+    "fields": 2,
+    "category": "refinements",
+    "iterations": 100,
+    "nonlinear_iterations": 2,
+    "nonlinear_steps": 16
+  },
+  {
+    "id": "geometry_matched_7",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "refinements",
+    "iterations": 120,
+    "aperiodic": true,
+    "geometry_seed": 7
+  },
+  {
+    "id": "geometry_matched_8",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "refinements",
+    "iterations": 120,
+    "aperiodic": true,
+    "geometry_seed": 8
+  },
+  {
+    "id": "geometry_matched_9",
+    "architecture": "static",
+    "n": 128,
+    "m": 2,
+    "fields": 1,
+    "category": "refinements",
+    "iterations": 120,
+    "aperiodic": true,
+    "geometry_seed": 9
+  },
+  {
+    "id": "gravity_compensated_ib2",
+    "architecture": "ib",
+    "n": 512,
+    "m": 2,
+    "fields": 1,
+    "category": "refinements",
+    "ib_gravity_compensation": true
+  },
+  {
+    "id": "sdp32_slow",
+    "architecture": "static",
+    "n": 32,
+    "m": 2,
+    "fields": 1,
+    "category": "refinements",
+    "iterations": 80,
+    "sdp": true,
+    "config": {
+      "stiffness_required": 1.9378922925187383e-06
+    }
+  }
+]

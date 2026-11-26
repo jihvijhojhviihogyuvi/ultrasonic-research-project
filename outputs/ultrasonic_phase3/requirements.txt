@@ -1,0 +1,8 @@
+numpy==2.5.2
+torch==2.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+numba==0.68.1
+cvxpy==1.9.3
+clarabel==0.11.1
+threadpoolctl==3.8.0

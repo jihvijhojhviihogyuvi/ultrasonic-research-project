@@ -1,0 +1,82 @@
+[
+  {
+    "stage": "mean",
+    "iteration": 0,
+    "loss": 13.362205580551384,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 10,
+    "loss": 6.58726166834753,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 20,
+    "loss": 6.1283551395265485,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 30,
+    "loss": 5.680644633515699,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 40,
+    "loss": 5.41563279516191,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 50,
+    "loss": 5.1615189318141885,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 60,
+    "loss": 4.959749304392983,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 70,
+    "loss": 4.831098722637279,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 80,
+    "loss": 4.748661757952069,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 90,
+    "loss": 4.68627497156001,
+    "rho": null
+  },
+  {
+    "stage": "mean",
+    "iteration": 99,
+    "loss": 4.640143255556087,
+    "rho": null
+  },
+  {
+    "stage": "nonlinear_floquet",
+    "iteration": 0,
+    "loss": 9.538835430889966,
+    "rho": 0.8927186100090392,
+    "closure": 0.09778712852655054
+  },
+  {
+    "stage": "nonlinear_floquet",
+    "iteration": 1,
+    "loss": 6.331845306129486,
+    "rho": 0.8920492159610882,
+    "closure": 0.02963418576033232
+  }
+]
